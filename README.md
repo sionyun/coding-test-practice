@@ -17,17 +17,25 @@
 
 
 #### 템플릿
-문제: 
-출처:
-├── 프로그래머스 Level ?
-└── leetcode
-유형:
-├── array/
-├── string/
-├── stack/
-├── queue/
-├── dfs-bfs/
-├── binary-search/
-└── dp/
-핵심 아이디어: 
-배운 점: 
+- 문제: 
+- 출처:
+  - 프로그래머스 Level ?
+  - leetcode
+- 유형:
+  -  array
+  -  string
+  -  hash-map
+  -  stack-queue
+  -  brute-force
+  -  sort
+  -  greedy
+  -  two-pointers
+  -  binary-search
+  -  recursion
+  -  dfs-bfs
+  -  dynamic-programming
+  -  graph
+  -  math
+  - implementation
+- 핵심 아이디어: 
+- 배운 점: 
