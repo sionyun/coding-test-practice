@@ -13,7 +13,7 @@
     - filter
         - O(n)
     - O(n + n + n) = O(n)
-*/
+    */
 
 function solution(participant, completion) {
 //  [3] 순회 한번으로 줄인 Map 풀이
